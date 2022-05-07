@@ -1,5 +1,6 @@
 # MomentumSoftKargo
 ### Projenin tanıtım sayfasıdır içerisinde kodlar bulunmaz
+ASP.NET CORE API veriyon 2.1 DTO uyumlu Class şeklindedir. SOAP bağlantısı için HttpWebRequest kullanılmıştır.
 Servisi Bulunan Kargolar
    - Yurtiçi Kargo 
       - Gönderi: http://ahmethamdibayrak.com/api/kargotest/yurtici/kargo 

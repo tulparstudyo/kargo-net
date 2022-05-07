@@ -1,4 +1,5 @@
 # MomentumSoftKargo
+### Projenin tanıtım sayfasıdır içerisinde kodlar bulunmaz
 Servisi Bulunan Kargolar
    - Yurtiçi Kargo 
       - Gönderi: http://ahmethamdibayrak.com/api/kargotest/yurtici/kargo 
